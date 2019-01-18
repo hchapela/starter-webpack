@@ -1,7 +1,7 @@
 # Starter Webpack Template
 _Stylus, Webpack, Node, Eslint_
 
-###Quick Start
+### Quick Start
 
 * ``` git clone https://github.com/hchapela/starter-webpack ```
 * ``` npm i ```
